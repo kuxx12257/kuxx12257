@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="dl" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="456.0" y2="0">
+      <stop offset="0%"  stop-color="#D4AF37" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity=".75"/>
+    </linearGradient>
+    <linearGradient id="dr" gradientUnits="userSpaceOnUse" x1="544.0" y1="0" x2="980" y2="0">
+      <stop offset="0%"   stop-color="#D4AF37" stop-opacity=".75"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pulse { animation: p 6s ease-in-out infinite; transform-origin: 500.0px 22.0px; }
+    @keyframes p { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+  </style>
+  <line x1="20"  y1="22.0" x2="456.0" y2="22.0" stroke="url(#dl)" stroke-width="1.2"/>
+  <line x1="544.0" y1="22.0" x2="980" y2="22.0" stroke="url(#dr)" stroke-width="1.2"/>
+  <g class="pulse">
+    <path d="M500.0 6.0 L516.0 22.0 L500.0 38.0 L484.0 22.0 Z"
+          fill="none" stroke="#D4AF37" stroke-width="1.1" opacity=".7"/>
+    <path d="M506.5 22.4 a7.6 7.6 0 1 1 -7.4 -7.6 a5.9 5.9 0 1 0 7.4 7.6 z" fill="#D4AF37"/>
+  </g>
+  <circle cx="466.0" cy="22.0" r="1.6" fill="#D4AF37" opacity=".55"/>
+  <circle cx="534.0" cy="22.0" r="1.6" fill="#D4AF37" opacity=".55"/>
+</svg>
