@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="108" viewBox="0 0 1000 108" role="img" aria-label="the hard part is knowing whether to believe it.">
+  <title>the hard part is knowing whether to believe it.</title>
+  <rect width="1000" height="108" fill="none"/>
+  <rect x="1" y="1" width="998" height="106" rx="4" fill="#07080D" stroke="#1D2029" stroke-width="1"/>
+  <rect x="1" y="1" width="3" height="106" fill="#D4AF37" opacity=".55"/>
+  <circle cx="970" cy="26" r="3.4" fill="#D4AF37" opacity=".5"/>
+  <circle cx="956" cy="26" r="3.4" fill="#9FB3C8" opacity=".3"/>
+  <circle cx="942" cy="26" r="3.4" fill="#E8E3D9" opacity=".18"/>
+
+    <clipPath id="clip0">
+      <rect x="26" y="26" width="0" height="56">
+        <animate attributeName="width" values="0;0;346.6;346.6;0;0" keyTimes="0.0000;0.0000;0.0905;0.2976;0.3190;1.0000"
+                 dur="21.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip0)">
+      <text x="28" y="64" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18.4" letter-spacing="0"
+            fill="#E8E3D9">> anyone can produce an answer.</text>
+    </g>
+    <rect y="46" width="2.2" height="24" fill="#D4AF37" opacity=".9">
+      <animate attributeName="x" values="28;28;374.6;374.6;28;28"
+               keyTimes="0.0000;0.0000;0.0905;0.2976;0.3190;1.0000" dur="21.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;.9;0;0"
+               keyTimes="0.0000;0.0000;0.0905;0.2976;0.3190;1.0000" dur="21.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="clip1">
+      <rect x="26" y="26" width="0" height="56">
+        <animate attributeName="width" values="0;0;545.5;545.5;0;0" keyTimes="0.0000;0.3333;0.4238;0.6310;0.6524;1.0000"
+                 dur="21.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip1)">
+      <text x="28" y="64" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18.4" letter-spacing="0"
+            fill="#E8E3D9">> the hard part is knowing whether to believe it.</text>
+    </g>
+    <rect y="46" width="2.2" height="24" fill="#D4AF37" opacity=".9">
+      <animate attributeName="x" values="28;28;573.5;573.5;28;28"
+               keyTimes="0.0000;0.3333;0.4238;0.6310;0.6524;1.0000" dur="21.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;.9;0;0"
+               keyTimes="0.0000;0.3333;0.4238;0.6310;0.6524;1.0000" dur="21.0s" repeatCount="indefinite"/>
+    </rect>
+    <clipPath id="clip2">
+      <rect x="26" y="26" width="0" height="56">
+        <animate attributeName="width" values="0;0;556.5;556.5;0;0" keyTimes="0.0000;0.6667;0.7571;0.9643;0.9857;1.0000"
+                 dur="21.0s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <g clip-path="url(#clip2)">
+      <text x="28" y="64" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="18.4" letter-spacing="0"
+            fill="#D4AF37">> so i build the system, then i build its accuser.</text>
+    </g>
+    <rect y="46" width="2.2" height="24" fill="#D4AF37" opacity=".9">
+      <animate attributeName="x" values="28;28;584.5;584.5;28;28"
+               keyTimes="0.0000;0.6667;0.7571;0.9643;0.9857;1.0000" dur="21.0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.9;.9;0;0"
+               keyTimes="0.0000;0.6667;0.7571;0.9643;0.9857;1.0000" dur="21.0s" repeatCount="indefinite"/>
+    </rect>
+</svg>
